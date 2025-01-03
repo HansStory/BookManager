@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "C:\\git\\C\u002B\u002B\\BookManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|solutionrelative:BookManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\BookManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|solutionrelative:BookManager\\BookManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\BookManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|solutionrelative:BookManager\\BookManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\BookManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|solutionrelative:BookManager\\BookManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E53D2231-A701-4E84-86FC-8B64CA0085CE}|BookManager\\BookManager.vcxproj|solutionrelative:BookManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +25,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "ViewState": "AgIAAIQBAAAAAAAAAAAhwJIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:33.587Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +48,7 @@
               "RelativeDocumentMoniker": "BookManager\\BookManager.h",
               "ToolTip": "C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\BookManager.h",
               "RelativeToolTip": "BookManager\\BookManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-02T05:24:28.17Z",
               "EditorCaption": ""
@@ -40,27 +56,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\main.cpp",
-              "RelativeDocumentMoniker": "BookManager\\main.cpp",
-              "ToolTip": "C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\main.cpp",
-              "RelativeToolTip": "BookManager\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-02T05:23:45.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "BookManager.cpp",
               "DocumentMoniker": "C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\BookManager.cpp",
               "RelativeDocumentMoniker": "BookManager\\BookManager.cpp",
               "ToolTip": "C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\BookManager.cpp",
               "RelativeToolTip": "BookManager\\BookManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-02T03:29:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\main.cpp",
+              "RelativeDocumentMoniker": "BookManager\\main.cpp",
+              "ToolTip": "C:\\git\\C\u002B\u002B\\BookManager\\BookManager\\main.cpp",
+              "RelativeToolTip": "BookManager\\main.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwEoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T05:23:45.665Z",
               "EditorCaption": ""
             }
           ]
